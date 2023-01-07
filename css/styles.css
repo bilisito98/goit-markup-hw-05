@@ -123,7 +123,7 @@ a {
     padding: 200px var(--container-padding);
     background-blend-mode: overlay;
     position: relative;
-    background: url("../images/img-overlay.png");
+    background-image: url("file:///C:/Users/asdda/Downloads/Imagen%20(7).jpg");
 }
 
 .banner .overlay {
